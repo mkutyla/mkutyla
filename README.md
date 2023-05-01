@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkutyla
 - 👀 I’m interested in cybersecurity- mostly Red Teaming.
-- 🌱 I’m currently learning Java and Python. 
+- 🌱 I’m currently developing in Java and Python. 
 - 💞️ I’m looking to collaborate on writing Python exploits or ML models.
 
 <!---
