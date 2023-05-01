@@ -2,7 +2,6 @@
 - 👀 I’m interested in cybersecurity- mostly Red Teaming.
 - 🌱 I’m currently learning Java and Python. 
 - 💞️ I’m looking to collaborate on writing Python exploits or ML models.
-- 📫 How to reach me: @sunshine13b on Twitter
 
 <!---
 mkutyla/mkutyla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
