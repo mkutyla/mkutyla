@@ -1,6 +1,6 @@
 Hi, I’m @mkutyla
 - 👀 I am interested in cybersecurity, currently working at its intersections with ML, DS, and AI.
-- 📖 I earned my BEng in Cybersecurity from Warsaw University of Technology in February 2025. Pursuing M.Sc. in Cybersecurity at Poznan University of Technology.
+- 📖 I earned my BEng in Cybersecurity from Warsaw University of Technology in February 2025 and am currently pursuing an M.Sc. in Cybersecurity at Poznan University of Technology.
 - 🌱 I primarily develop in Python, with experience in Java and C#, and basic knowledge of C/C++.
 
 You can view my publications on [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0947-8986) and [Google Scholar](https://scholar.google.com/citations?user=tVAk5ogAAAAJ)
